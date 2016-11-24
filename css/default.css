@@ -1,0 +1,133 @@
+body{	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666;
+	line-height: 1.5em
+}
+* {
+	box-sizing: border-box
+}
+
+/*-----Header Style-----*/
+.header {
+	height: 150px
+}
+.header .logo {
+	cursor: :pointer;
+	width: 150px;
+	margin: 0 10px;
+	float: left;
+	margin: 28px 0 0 10px;
+}
+.header .nav {
+	display: block;
+	list-style-type: none;
+	width: 500px;
+	height: 30px;
+	margin-top: 80px;
+	border-bottom: 1px solid #072a62;
+	float: right;
+}
+.header .nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.header .nav ul li {
+	float: left;
+	position: relative;
+}
+.header .nav ul li a {
+	
+	font-weight: bold;
+	padding: 10px 10px;
+	line-height: 30px;
+	margin: 0 1px;
+	color: #039;
+	text-decoration: none;
+}
+.header .nav ul li a:hover {
+	color: #FFF;
+	font-weight: bold;
+	background-color: #F06;
+}
+/*---Main8 -----*/
+
+
+.main {
+	min-height: 1250px;
+}
+.heading {
+	font-size:15px;
+	color:#072a62
+}
+.boldtext {
+	font-weight:bold	
+	
+}
+.pinkText {
+	color:#F0C
+}
+.blueText {
+	
+	color:#009;
+	
+}
+.container {
+	width: 960px;
+	margin: 0 auto
+}
+.pointer {
+	cursor: pointer;
+}
+
+/*-----Footer style-------*/
+.footer p {
+	margin: 10px;
+	color: #CCC
+}
+.footer {
+	height: 180px;
+	background: #072a62;
+	padding-top: 10px;
+}
+
+
+
+.contact img {
+	cursor:pointer;
+	display:inline
+}
+
+.imglogo img {
+
+		display:block;
+		margin-left:auto;
+		margin-right:auto
+	
+}
+.rowsp2 {
+	margin: 50px 0;
+}
+.rowMargin  {
+	margin: 20px 0
+}
+img {
+	cursor: pointer;
+}
+
+
+
+
+
+
+/*------Define fonts------*/
+@font-face {
+    font-family: utmscript;
+    src: url(../fonts/UTM%20Scriptina%20KT.ttf)
+}
+
+
+	
+
+	

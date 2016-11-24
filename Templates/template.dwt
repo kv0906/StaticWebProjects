@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../css/default.css"/>
+<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="../css/grid_sstem.css"/>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class=" row header">
+	<div class="container">
+   		<div class="logo col-5"> <img src="../images/00_logo.png" /> 
+        </div>
+    	<!--end logo-->
+    	<div class="nav col-7 fr">
+      	<ul>
+            <li><a class="active" href="index.html">TRANG CHỦ</a></li>
+            <li><a href="#about">GIỚI THIỆU</a></li>
+            <li><a href="shop.html">CỬA HÀNG</a></li>
+            <li><a href="#contact">TIN TỨC</a></li>
+            <li><a href="sukien.html">SỰ KIỆN</a></li>
+            <li><a href="#contact">LIÊN HỆ</a></li>
+      	</ul>
+    	</div>
+    	<!--end nav--> 
+  </div>
+  <!--end container-->
+  </div>
+  <!-- end row header--><!-- TemplateBeginEditable name="nd" -->
+  <div class="row main"> </div>
+  
+  <!-- TemplateEndEditable --></div>
+<div class="row footer">
+  <div class="container">
+    <div class="contact col-4">
+      <p class="boldtext" ><strong>Paris Baguette Vietnam (PB Vietnam)</strong></p>
+      <p> 445 - 447 Hai Bà Trưng, P. 8, Quận 3, TP. HCM </p>
+      <p>(08) 38 481 682</p>
+      
+      <img src="../images/00_footer_icon1.jpg"/>
+      <img src="../images/00_footer_icon2.jpg" />
+      <img src="../images/00_footer_icon3.jpg" />
+      <img src="../images/00_footer_icon4.jpg" />
+      
+      
+      
+    </div>
+    <div class="col-4">
+      <p class= "boldtext"> <strong>Cửa hàng</strong></p>
+      <p>27 Nguyễn Thị Minh Khai, P. 2, Quận 3, TP. HCM</p>
+      <p> (08) 38 481 888 - (08) 38 481 777
+        202</p>
+      <p> Nguyen Thi Nho  P. 8, Quận 1, TP. HCM
+        (08) 38 481 444 - (08) 38 481 666 </p>
+    </div>
+    <div class="col-4">
+      <p class="boldtext"> <strong>@2013 ParisdeBaquete</strong></p>
+      <p>Giay phep so: 895456622</p>
+      <p> Gpp
+        Thiết kế website bởi GV Thanh Thuý </p>
+      <p>ĐT: (848) 3930 5229 - Fax: (848) 3930 5933 </p>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
